@@ -5,7 +5,15 @@
     styling websites.
   </div>
 </div><!-- #Overview -->
-
+<div id="Form-Follows-Function" class="blurbSummary grid_12">
+  <div class="blurbTitle">Form Follows Function</div>
+  <div class="p">
+    The number one rule in site design is to start with the fucntion. Clearly
+    define the audience and what you're trying to communicate. The message
+    will help to define and focus the structure and the audience will help
+    define and focus the style.
+  </div>
+</div>
 <div id="Top-Level-Structure" class="blurbSummary grid_12">
   <div class="blurbTitle">High Level Structure</div>
   <div class="p">
