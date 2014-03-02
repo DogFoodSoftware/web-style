@@ -1,0 +1,35 @@
+<div id="Overivew" class="blurbSummary grid_12">
+  <div class="p">
+    'Web style' deals with the aesthetics and structure of a web site. This
+    primer general design principles and guidelines for constructing and
+    styling websites.
+  </div>
+</div><!-- #Overview -->
+<div id="Top-Level-Structure" class="blurbSummary grid_12">
+  <div class="blurbTitle">Top Level Structure</div>
+  <div class="p">
+    The first thing to consider is your 'entry points'. The most important
+    entry point is the Generally, any page
+    may
+    be <a href="/documentation/web-style-primer/ref/Lexicon#Deep-Link">directly
+    linked (a 'deep link')</a>, but most every site has
+    a <a href="/documentation/web-style-primer/ref/Lexicon#Front-Page">front
+    page</a> and often one or
+    more <a href="/documentation/web-style-primer/ref/Lexicon#Section-Pages">section
+    pages</a>.
+  </div>
+  <div class="p">
+    The front page acts as the introduction to the site, and by extension the
+    company (or group or individual) that the site is about. It is also a
+    reset and jumping off point for general navigation, meaning users will
+    often jump to the front page when switching activities or starting a new
+    search.
+  </div>
+  <div class="p">
+    The front page should first and foremost be clear and easy to
+    navigate, and it is easier to make a good looking web page when we allow
+    form to follow function. We discuss particular dos and don'ts in
+    the <a href="/documentation/web-style-primer/ref/Front-Page-Design">front
+    page design page</a>.
+  </div>
+</div><!-- #Top-Levels-Structure -->
