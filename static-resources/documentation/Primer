@@ -5,31 +5,41 @@
     styling websites.
   </div>
 </div><!-- #Overview -->
+
 <div id="Top-Level-Structure" class="blurbSummary grid_12">
-  <div class="blurbTitle">Top Level Structure</div>
+  <div class="blurbTitle">High Level Structure</div>
   <div class="p">
-    The first thing to consider is your 'entry points'. The most important
-    entry point is the Generally, any page
-    may
-    be <a href="/documentation/web-style-primer/ref/Lexicon#Deep-Link">directly
-    linked (a 'deep link')</a>, but most every site has
-    a <a href="/documentation/web-style-primer/ref/Lexicon#Front-Page">front
-    page</a> and often one or
-    more <a href="/documentation/web-style-primer/ref/Lexicon#Section-Pages">section
-    pages</a>.
+    A website consists of 'pages'. Pages may be broken into two broad
+    categories: content and navigation. Navigation pages may contain some
+    content, but their primary purpose is to help users navigate to other
+    pages. Conversely, all pages, including content pages, have navigation
+    elements, but their primary purpose is to provide content.
   </div>
   <div class="p">
-    The front page acts as the introduction to the site, and by extension the
-    company (or group or individual) that the site is about. It is also a
-    reset and jumping off point for general navigation, meaning users will
-    often jump to the front page when switching activities or starting a new
-    search.
-  </div>
-  <div class="p">
-    The front page should first and foremost be clear and easy to
-    navigate, and it is easier to make a good looking web page when we allow
-    form to follow function. We discuss particular dos and don'ts in
+    The most important navigation page is generlly
     the <a href="/documentation/web-style-primer/ref/Front-Page-Design">front
-    page design page</a>.
+    page</a>. This is both the primary entry and, when well desingned, a
+    useful jumping off point for every activity a user might perform on the
+    site.
   </div>
-</div><!-- #Top-Levels-Structure -->
+  <div class="p">
+    Clear <a href="/documentation/web-style-primer/ref/Navigation-Strategies">navigation
+    strategies</a> allow a user to intuitively understand how to get around
+    your website. Navigation should be as simple as possible (but not
+    simpler). Typical navigation consists of omni-present links to common
+    jumping off points, with 'local navigation' elemnts for access to related
+    pages.
+  </div>
+</div><!-- #Top-Level-Structure -->
+<div id="Top-Level-Style" class="blurbSummary grid_12">
+  <div class="blurbTitle">Top Level Style</div>
+  <div class="p">
+    Style used to be about colors and 'flat vs. 3D', rounded vs. sharp,
+    etc. While these kind
+    of <a href="/documentation/web-style-primer/ref/Aesthetics">aesthetic</a>
+    choices are important, good websites employ high level styling via
+    some <a href="/documentation/web-style-primer/ref/Grid-Based-CSS-Frameworks">grid-based
+    CSS framework</a>. The framework may be organic or pre-existing, but it
+    should always be there and it should always be grid based.
+  </div>
+</div>
